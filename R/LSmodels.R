@@ -1,5 +1,6 @@
 ## ------------------------------------------------------------------- ##
-##  R functions accompanying the file "FittingLSmodels.R".
+##  R functions containing the mortality models of the 
+##  Location-Scale family
 ##  Author: Ugofilippo Basellini
 ##  Last Update: 09/08/2018
 ## ------------------------------------------------------------------- ##

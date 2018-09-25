@@ -31,8 +31,7 @@ library("demography")
 library("DEoptim")
 
 ## load Location-Scale functions
-## (available in the other Supplementary R file)
-source("10680_2018_9497_MOESM2_ESM.R")
+source("LSmodels.R")
 
 ## -- READING THE DATA -------------
 
