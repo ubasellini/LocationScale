@@ -1,4 +1,4 @@
-# Location-Scale Models in Demography: A Useful Re-parameterization of Mortality Models
+# Location-Scale Models in Demography
 This repository contains source code for the Location-Scale family of mortality models.
 
 ## Description
