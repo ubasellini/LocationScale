@@ -31,7 +31,7 @@ library("demography")
 library("DEoptim")
 
 ## load Location-Scale functions
-source("LSmodels.R")
+source("LS_functions.R")
 
 ## -- READING THE DATA -------------
 
