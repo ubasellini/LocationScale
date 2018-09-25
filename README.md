@@ -6,3 +6,5 @@ Several parametric mortality models have been proposed to describe the age patte
 
 ## Reference
 Basellini U., Canudas-Romo V. and Lenart A. (2018). Location-Scale Models in Demography: A Useful Re-parameterization of Mortality Models. European Journal of Population.
+
+[Corriere della sera](http://www.corriere.it)
